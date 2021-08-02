@@ -13,6 +13,7 @@ fg.src = "./assets/img/flappy_bird_fg.png";
 pipeUp.src = "./assets/img/flappy_bird_pipeUp.png";
 pipeBottom.src = "./assets/img/flappy_bird_pipeBottom.png";
 
+bird.height = 20;
 // Звуковые файлы
 // var fly = new Audio();
 // var score_audio = new Audio();
